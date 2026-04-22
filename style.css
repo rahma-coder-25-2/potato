@@ -2,6 +2,53 @@ body {
     background: white;
 }
 
-h1 {
-    color: red;
+h1{
+    font-size: xx-large;
+    color: hotpink;
+    font-style: normal;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
 }
+
+img{
+     height: 500;
+     width: 500;
+     display: inline;
+     margin-top: auto;
+
+}
+
+div{
+     color: black;
+     font-size: small;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+
+il{
+    color: cornflowerblue;
+    background-color: beige;
+    font-size: small;
+}
+
+p{  
+   font-size: x-small;
+   color: black;
+   
+}
+
+
+ul{
+    color: aqua;
+    font-size: x-small;
+    font-family: initial;
+
+}
+
+
+
+
+
+
+
+
